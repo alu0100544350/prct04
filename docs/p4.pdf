@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html  dir="ltr" lang="es" xml:lang="es">
+<head>
+    <title>Entorno virtual de docencia institucional 2013/2014: Área personal</title>
+    <link rel="shortcut icon" href="http://campusvirtual.ull.es/1314/theme/image.php/institucional/theme/1387354149/favicon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, Entorno virtual de docencia institucional 2013/2014: Área personal" />
+<script type="text/javascript">
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"http:\/\/campusvirtual.ull.es\/1314","sesskey":"w7TKaLBzpY","loadingicon":"http:\/\/campusvirtual.ull.es\/1314\/theme\/image.php\/institucional\/core\/1387354149\/i\/loading_small","themerev":"1387354149","slasharguments":1,"theme":"institucional","jsrev":"1387354149","svgicons":true};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin');}};
+var yui2ConfigFn = function(me) {var p = me.path, b = me.name.replace(/^moodle-/,'').split('-', 3), n = b.pop();if (/(skin|core)/.test(n)) {n = b.pop();me.type = 'css';};me.path = b.join('-')+'/'+n+'/'+n;if(me.type !== 'css'){me.path=me.path+'-min';};me.path=me.path+'.'+me.type;};
+YUI_config = {"debug":false,"base":"http:\/\/campusvirtual.ull.es\/1314\/lib\/yuilib\/3.9.1\/build\/","comboBase":"http:\/\/campusvirtual.ull.es\/1314\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"http:\/\/campusvirtual.ull.es\/1314\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"http:\/\/campusvirtual.ull.es\/1314\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"http:\/\/campusvirtual.ull.es\/1314\/theme\/yui_combo.php?moodle\/1387354149\/","combine":true,"comboBase":"http:\/\/campusvirtual.ull.es\/1314\/theme\/yui_combo.php?","ext":false,"root":"moodle\/1387354149\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"modules":{"moodle-core-notification":{"requires":["base","node","panel","event-key","dd-plugin"]},"moodle-core-formautosubmit":{"requires":["base","event-key"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-formchangechecker":{"requires":["base","event-focus"]},"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification","json-parse","widget-position","widget-position-align","event-outside","cache"]},"moodle-calendar-eventmanager":{"requires":["base","node","event-mouseenter","overlay","moodle-calendar-eventmanager-skin"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-block_navigation-navigation":{"requires":["base","core_dock","io-base","node","dom","event-custom","event-delegate","json-parse"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-notification"]},"moodle-editor_tinymce-collapse":{"requires":["base","node","dom"]},"moodle-theme_bootstrapbase-bootstrap":{"requires":["node","selector-css3"]}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"http:\/\/campusvirtual.ull.es\/1314\/lib\/javascript.php\/1387354149\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker"]},"core_dock":{"name":"core_dock","fullpath":"http:\/\/campusvirtual.ull.es\/1314\/lib\/javascript.php\/1387354149\/blocks\/dock.js","requires":["base","node","event-custom","event-mouseenter","event-resize","escape"]},"core_message":{"name":"core_message","requires":["base","node","event","node-event-simulate"],"fullpath":"http:\/\/campusvirtual.ull.es\/1314\/lib\/javascript.php\/1387354149\/message\/module.js"}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+<link rel="stylesheet" type="text/css" href="http://campusvirtual.ull.es/1314/theme/yui_combo.php?3.9.1/build/cssreset/cssreset-min.css&amp;3.9.1/build/cssfonts/cssfonts-min.css&amp;3.9.1/build/cssgrids/cssgrids-min.css&amp;3.9.1/build/cssbase/cssbase-min.css" /><script type="text/javascript" src="http://campusvirtual.ull.es/1314/theme/yui_combo.php?3.9.1/build/simpleyui/simpleyui-min.js&amp;3.9.1/build/loader/loader-min.js"></script><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="http://campusvirtual.ull.es/1314/theme/styles.php/institucional/1387354149/all" />
+<script type="text/javascript" src="http://campusvirtual.ull.es/1314/lib/javascript.php/1387354149/lib/javascript-static.js"></script>
+
+<style type="text/css">
+  body .buorg{ font-size: 15px;}
+</style>
+
+<script type="text/javascript"> 
+var $buoop = {
+reminder: 0,
+text: "Su navegador está <strong>desactualizado</strong>. Tiene conocidos <strong>fallos de seguridad</strong> y podría <strong>no mostrar todas las características</strong> del <strong>campus virtual de la ULL</strong>. <a href='http://www.browser-update.org/update.html' target='_blank'>Pinche aquí y actualice su navegador</a>"
+} 
+$buoop.ol = window.onload; 
+window.onload=function(){ 
+try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
+var e = document.createElement("script"); 
+e.setAttribute("type", "text/javascript"); 
+e.setAttribute("src", "https://campusvirtual.ull.es/static/update-browser/update.js"); 
+document.body.appendChild(e); 
+} 
+</script> 
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7936780-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+<body id="page-my-index" class="format-site  path-my gecko dir-ltr lang-es yui-skin-sam yui3-skin-sam campusvirtual-ull-es--1314 pagelayout-mydashboard course-1 context-1 side-post-only">
+<div class="link-bar"><ul class="link-left"><li><a title="Ir a la p&aacute;gina web de la Universidad de La laguna" href="http://www.ull.es">ULL</a></li><li><a title="Ir a la p&aacute;gina principal del Campus virtual de la ULL" href="http://www.campusvirtual.ull.es">Campus virtual</a></li><li><a title="Ir a la p&aacute;gina principal del Entorno virtual de docencia institucional 2013/2014" href="http://campusvirtual.ull.es/1314">Entorno virtual de docencia institucional 2013/2014</a></li></ul><ul class="link-right"><li><div class="logininfo">Usted se ha identificado como <a href="http://campusvirtual.ull.es/1314/user/profile.php?id=14873" title="Ver perfil">ADRIANA CALVO</a> (<a href="http://campusvirtual.ull.es/slogout">Salir</a>)</div></li></ul></div><div class="skiplinks"><a class="skip" href="#maincontent">Saltar a contenido principal</a></div>
+<script type="text/javascript">
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+<div id="page">
+    <div class="main-content">
+    <div id="page-header" class="clearfix">
+        <h1 class="headermain"><a title="Ir a la p&aacute;gina principal del Campus Virtual de la ULL" href="http://www.campusvirtual.ull.es">Entorno virtual de docencia institucional 2013/2014: Área personal</a></h1>
+        <div class="headermenu">
+            <ul>
+                    <li><a class="home" title="Ir al inicio de Campus Virtual de la ULL" href="http://campusvirtual.ull.es/1314">Inicio</a></li>
+                                    <li><a class="mycampus" title="Ir a Mi Campus" href="http://www.campusvirtual.ull.es">Mi Campus</a></li>
+                                    <li><a class="user-help" title="Acceder a la informaci&oacute;n de atenci&oacute;n al usuario" href="http://campusvirtual.ull.es/mod/resource/view.php?id=4">Atenci&oacute;n al usuario</a></li>
+                                    <li><a class="logout" title="Salir del Campus Virtual de la ULL" href="http://campusvirtual.ull.es/slogout">Salir</a></li>
+                            </ul>
+
+            <div class="edicion">
+            </div>
+               
+        </div>
+    </div>
+
+                    <div class="navbar clearfix">
+                <div class="breadcrumb"><span class="accesshide">Ruta a la página</span><ul role="navigation"><li><a href="http://campusvirtual.ull.es/1314/my/">Entorno virtual de docencia institucional 2013/2014</a></li><li> <span class="accesshide " ><span class="arrow_text">/</span>&nbsp;</span><span class="arrow sep">&#x25BA;</span> <a href="http://campusvirtual.ull.es/1314/my/">Mis cursos</a></li></ul></div>
+                <div class="navbutton"> </div>
+            </div>
+        
+<!-- END OF HEADER -->
+
+    <div id="page-content">
+        <div id="region-main-box">
+            <div id="region-post-box">
+
+                <div id="region-main-wrap">
+                    <div id="region-main">
+                        <div class="region-content">
+                            <div role="main"><span id="maincontent"></span><a href="#sb-7" class="skip-block">Saltar Aulas matriculadas en este entorno virtual</a><div id="inst19" class="block_course_overview_ull  block" role="complementary" aria-labelledby="instance-19-header"><div class="header"><div class="title"><div class="block_action"></div><h2 id="instance-19-header">Aulas matriculadas en este entorno virtual</h2></div></div><div class="content"><div class="course_list"><div id="course-1460" class="box coursebox"><div class="course_title"><h2 class="title"><a title="PROBABILIDADES" href="http://campusvirtual.ull.es/1314/course/view.php?id=1460">PROBABILIDADES</a></h2><div class="box flush"></div></div><div class="box flush"></div></div><div id="course-1455" class="box coursebox"><div class="course_title"><h2 class="title"><a title="MATEMÁTICA DISCRETA" href="http://campusvirtual.ull.es/1314/course/view.php?id=1455">MATEMÁTICA DISCRETA</a></h2><div class="box flush"></div></div><div class="box flush"></div></div><div id="course-1470" class="box coursebox"><div class="course_title"><h2 class="title"><a title="FUNDAMENTOS DE BIOLOGÍA" href="http://campusvirtual.ull.es/1314/course/view.php?id=1470">FUNDAMENTOS DE BIOLOGÍA</a></h2><div class="box flush"></div></div><div class="box flush"></div></div><div id="course-1449" class="box coursebox"><div class="course_title"><h2 class="title"><a title="INFORMÁTICA" href="http://campusvirtual.ull.es/1314/course/view.php?id=1449">INFORMÁTICA</a></h2><div class="box flush"></div></div><div class="box flush"></div></div><div id="course-1447" class="box coursebox"><div class="course_title"><h2 class="title"><a title="TÉCNICAS EXPERIMENTALES" href="http://campusvirtual.ull.es/1314/course/view.php?id=1447">TÉCNICAS EXPERIMENTALES</a></h2><div class="box flush"></div></div><div class="box flush"></div></div><div id="course-1444" class="box coursebox"><div class="course_title"><h2 class="title"><a title="FUNDAMENTOS DE QUÍMICA" href="http://campusvirtual.ull.es/1314/course/view.php?id=1444">FUNDAMENTOS DE QUÍMICA</a></h2><div class="box flush"></div></div><div class="box flush"></div></div><div id="course-1427" class="box coursebox"><div class="course_title"><h2 class="title"><a title="FUNDAMENTOS DE FÍSICA" href="http://campusvirtual.ull.es/1314/course/view.php?id=1427">FUNDAMENTOS DE FÍSICA</a></h2><div class="box flush"></div></div><div class="box flush"></div></div><div id="course-1465" class="box coursebox"><div class="course_title"><h2 class="title"><a title="TEORÍA DE GRUPOS" href="http://campusvirtual.ull.es/1314/course/view.php?id=1465">TEORÍA DE GRUPOS</a></h2><div class="box flush"></div></div><div class="box flush"></div></div><div id="course-1462" class="box coursebox"><div class="course_title"><h2 class="title"><a title="INFERENCIA ESTADÍSTICA" href="http://campusvirtual.ull.es/1314/course/view.php?id=1462">INFERENCIA ESTADÍSTICA</a></h2><div class="box flush"></div></div><div class="box flush"></div></div></div></div></div><span id="sb-7" class="skip-block-to"></span><div id="inst20" class="block_html  block" role="complementary" aria-label="HTML"><div class="content"><div class="block_action notitle"></div><div class="no-overflow"><div class="categorypicker"><a href="http://campusvirtual.ull.es/1314/course" style="margin: 0 auto; float: none;">Acceso al listado completo de titulaciones o categorías</a></div></div></div></div><div id="inst21" class="block_html  block" role="complementary" aria-label="HTML"><div class="content"><div class="block_action notitle"></div><div class="no-overflow"><div class="mensaje">
+<h2>Sabía que...</h2>
+<p>El <i>área personal</i> de este entorno virtual incluye información detallada de la actividad que un usuario desarrolla sobre él.</p>
+<ul>
+<li>Acceda a toda la información relacionada a su usuario en el Campus Virtual de la ULL <a href="http://www.campusvirtual.ull.es">pinche aquí</a>.</li>
+<li>Si desea conocer en detalle el proceso de matriculación en un aula virtual, por favor siga el siguiente enlace. Si tiene cualquier duda o sugerencia no dude en consultar directamente con el responsable de su asignatura o entorno virtual. <a href="http://campusvirtual.ull.es/mod/resource/view.php?id=8">Procedimiento de matriculación en un aula virtual</a></li>
+</ul>
+</div></div></div></div></div>                        </div>
+                    </div>
+                </div>
+
+                
+                                <div id="region-post" class="block-region">
+                    <div class="region-content">
+                        <a href="#sb-1" class="skip-block">Saltar Perfil de usuario</a><div id="inst18" class="block_myprofile_ull  block" role="complementary" aria-labelledby="instance-18-header"><div class="header"><div class="title"><div class="block_action"></div><h2 id="instance-18-header">Perfil de usuario</h2></div></div><div class="content"><div class="myprofileitem picture"><a href="http://campusvirtual.ull.es/1314/user/profile.php?id=14873"><img src="http://campusvirtual.ull.es/1314/pluginfile.php/119444/user/icon/institucional/f1?rev=349958" alt="Imagen de ADRIANA CALVO" title="Imagen de ADRIANA CALVO" class="profilepicture" width="100" height="100" /></a></div><div class="myprofileitem content"><span class="fullname">ADRIANA CALVO</span><span class="email"><a href="&#109;a&#105;lto:%61%6c%75%30%310%3054%34350@u%6cl%2e%65%64%75.%65%73">a&#108;&#117;&#48;&#49;&#48;&#48;&#53;&#52;&#52;&#51;&#53;&#48;&#64;u&#108;l.&#101;&#100;&#117;&#46;e&#115;</a></span>
+<ul>
+    <li><a href="http://campusvirtual.ull.es/1314/user/edit.php?id=14873&course=1" class="icon-config">Editar perfil de usuario</a></li>
+    <li><a target="_blank" href="http://mail.ull.edu.es" class="icon-mail">Acceso correo electr&oacute;nico</a></li>
+    <li><a href="https://usuarios.ull.es/autogestion/cambio_password/" class="icon-change" target="_blank">Cambiar contrase&#241;a de acceso</a></li>
+</ul>
+</div></div></div><span id="sb-1" class="skip-block-to"></span><a href="#sb-2" class="skip-block">Saltar Mis archivos privados</a><div id="inst7" class="block_private_files  block" role="complementary" aria-labelledby="instance-7-header"><div class="header"><div class="title"><div class="block_action"></div><h2 id="instance-7-header">Mis archivos privados</h2></div></div><div class="content"><div class="box generalbox">No hay archivos disponibles</div><div class="singlebutton"><form method="get" action="http://campusvirtual.ull.es/1314/user/files.php"><div><input type="submit" value="Gestionar mis archivos privados" /><input type="hidden" name="returnurl" value="http://campusvirtual.ull.es/1314/my/index.php" /></div></form></div></div></div><span id="sb-2" class="skip-block-to"></span><a href="#sb-3" class="skip-block">Saltar Mensajes</a><div id="inst15" class="block_messages  block" role="complementary" aria-labelledby="instance-15-header"><div class="header"><div class="title"><div class="block_action"></div><h2 id="instance-15-header">Mensajes</h2></div></div><div class="content"><ul class="list"><li class="listentry"><div class="user"><a href="http://campusvirtual.ull.es/1314/user/view.php?id=14820&amp;course=1" title="4 horas 14 minutos"><a href="http://campusvirtual.ull.es/1314/user/profile.php?id=14820"><img src="http://campusvirtual.ull.es/1314/pluginfile.php/119305/user/icon/institucional/f2?rev=769520" alt="Imagen de MISAEL ENRIQUE PERAZA LUIS" title="Imagen de MISAEL ENRIQUE PERAZA LUIS" class="userpicture" width="35" height="35" /></a>MISAEL ENRIQUE PERAZA LUIS</a></div><div class="message"><a href="http://campusvirtual.ull.es/1314/message/index.php?usergroup=unread&amp;id=14820"><img class="iconsmall" src="http://campusvirtual.ull.es/1314/theme/image.php/institucional/core/1387354149/t/message" alt="" />&nbsp;1</a></div></li></ul><div class="footer"><a href="http://campusvirtual.ull.es/1314/message/index.php">Mensajes</a></div></div></div><span id="sb-3" class="skip-block-to"></span><a href="#sb-4" class="skip-block">Saltar Administración</a><div id="inst5" class="block_settings  block" role="navigation" aria-labelledby="instance-5-header"><div class="header"><div class="title"><div class="block_action"></div><h2 id="instance-5-header">Administración</h2></div></div><div class="content"><div id="settingsnav" class="box block_tree_box"><ul class="block_tree list"><li class="type_unknown collapsed contains_branch" aria-expanded="false"><p class="tree_item branch root_node" id="usersettings"><span tabindex="0">Ajustes de mi perfil</span></p><ul><li class="type_setting collapsed item_with_icon"><p class="tree_item leaf"><a href="http://campusvirtual.ull.es/1314/user/edit.php?id=14873&amp;course=1"><img alt="" class="smallicon navicon" title="" src="http://campusvirtual.ull.es/1314/theme/image.php/institucional/core/1387354149/i/navigationitem" />Editar perfil</a></p></li>
+<li class="type_setting collapsed item_with_icon"><p class="tree_item leaf"><a href="http://campusvirtual.ull.es/1314/user/managetoken.php?sesskey=w7TKaLBzpY"><img alt="" class="smallicon navicon" title="" src="http://campusvirtual.ull.es/1314/theme/image.php/institucional/core/1387354149/i/navigationitem" />Claves de seguridad</a></p></li>
+<li class="type_setting collapsed item_with_icon"><p class="tree_item leaf"><a href="http://campusvirtual.ull.es/1314/message/edit.php?id=14873"><img alt="" class="smallicon navicon" title="" src="http://campusvirtual.ull.es/1314/theme/image.php/institucional/core/1387354149/i/navigationitem" />Mensajería</a></p></li></ul></li></ul></div></div></div><span id="sb-4" class="skip-block-to"></span><a href="#sb-5" class="skip-block">Saltar Unidad para la Docencia Virtual</a><div id="inst17" class="block_html  block" role="complementary" aria-labelledby="instance-17-header"><div class="header"><div class="title"><div class="block_action"></div><h2 id="instance-17-header">Unidad para la Docencia Virtual</h2></div></div><div class="content"><div class="no-overflow"><div style="text-align: center;"><a href="http://udv.ull.es" target="_blank" title="Ir a la página web de la Unidad para la Docencia Virtual"><img style="vertical-align: middle; margin: 0px;" src="http://campusvirtual.ull.es/1314/pluginfile.php/25/block_html/content/logo-udv.png" alt="Unidad para la Docencia Virtual" title="Unidad para la Docencia Virtual" height="57" width="332" /></a></div></div></div></div><span id="sb-5" class="skip-block-to"></span><a href="#sb-6" class="skip-block">Saltar Entornos virtuales</a><div id="inst16" class="block_html  block" role="complementary" aria-labelledby="instance-16-header"><div class="header"><div class="title"><div class="block_action"></div><h2 id="instance-16-header">Entornos virtuales</h2></div></div><div class="content"><div class="no-overflow"><div class="m-c-l-widget">
+<ul>
+<li><a class="docencia" href="http://campusvirtual.ull.es/1314" title="Acceder al entorno virtual de docencia institucional 13/14">Docencia institucional 13/14</a></li>
+<li><a class="docencia-old" href="http://campusvirtual.ull.es/1213" title="Acceder al entorno virtual de docencia institucional 12/13">Docencia institucional 12/13 (Versión 1)</a></li>
+<li><a class="docencia-old" href="http://campusvirtual.ull.es/1213m2" title="Acceder al entorno virtual de docencia institucional 12/13 (Versión 2)">Docencia institucional 12/13 (Versión 2)</a></li>
+<li><a class="entornos" href="http://campusvirtual.ull.es/entornos" title="Acceder a los entornos virtuales colaborativos de trabajo">Colaborativos de trabajo</a></li>
+<li><a class="formacion" href="http://campusvirtual.ull.es/formacion" title="Acceder al Entorno virtual de formación y títulos propios">Formación y títulos propios</a></li>
+<li><a class="facultades" href="http://campusvirtual.ull.es/facultades" title="Acceder al Entorno virtual de escuelas y facultades">Escuelas y facultades</a></li>
+<li><a class="ocw" href="http://campusvirtual.ull.es/ocw" title="Acceder Open Course Ware">Open Course Ware</a></li>
+</ul>
+</div></div></div></div><span id="sb-6" class="skip-block-to"></span>                    </div>
+                </div>
+                            </div>
+        </div>
+    </div>
+
+
+</div>
+
+</div>
+<div id="page-footer" class="clearfix"><ul><li><a href="http://campusvirtual.ull.es/static/terminos-y-condiciones-de-uso/" title="Enlace a los t&eacute;rminos y condiciones de uso del Campus Virtual de la ULL" target="_blank">T&eacute;rminos y condiciones de uso</a></li><li><a title="Enlace al protocolo de publicaci&oacute;n de materiales did&aacute;cticos en las aulas virtuales de la ULL" href="http://campusvirtual.ull.es/static/protocolo_publicacion_materiales_cv.pdf">Protocolo de publicaci&oacute;n de materiales did&aacute;cticos</a></li><li>2014 &copy; Universidad de La Laguna</li><li><a class="moodle-link" href="http://moodle.org"></a></li></ul></div><script type="text/javascript">
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"\u00daltima modificaci\u00f3n","name":"Nombre","error":"Error","info":"Informaci\u00f3n","morehelp":"M\u00e1s ayuda","loadinghelp":"Cargando...","cancel":"Cancelar","yes":"S\u00ed"},"repository":{"type":"Tipo","size":"Tama\u00f1o","invalidjson":"Cadena JSON no v\u00e1lida","nofilesattached":"No se han adjuntado archivos","filepicker":"Selector de archivos","logout":"Salir","nofilesavailable":"No hay archivos disponibles","norepositoriesavailable":"Lo sentimos, ninguno de sus repositorios actuales puede devolver archivos en el formato solicitado.","fileexistsdialogheader":"El archivo existe","fileexistsdialog_editor":"Un archivo con el mismo nombre ya se ha adjuntado al texto que est\u00e1 editando.","fileexistsdialog_filemanager":"Un archivo con ese nombre ya ha sido adjuntado","renameto":"Cambiar el nombre a","referencesexist":"Existen {$a} archivos de alias\/atajos que emplean este archivo como su or\u00edgen"},"block":{"addtodock":"Minimizar en la barra lateral","undockitem":"Desacoplar este \u00edtem","dockblock":"Acoplar bloque {$a}","undockblock":"Desacoplar bloque {$a}","undockall":"Desacoplar todo","hidedockpanel":"Esconder el panel desacoplado","hidepanel":"Esconder panel"},"langconfig":{"thisdirectionvertical":"btt"},"admin":{"confirmation":"Confirmaci\u00f3n"}};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+YUI().use('node', function(Y) {
+M.util.load_flowplayer();
+setTimeout("fix_column_widths()", 20);
+Y.use('core_message', function(Y) { M.core_message.init_notification(Y, "", "<div id=\"newmessageoverlay\" class=\"mdl-align\"><div id=\"newmessagetext\">Mensaje nuevo de (MISAEL ENRIQUE PERAZA LUIS)<div id=\"usermessage\">T\u00e9cnicas Expermientales \r\n4.0 Suspenso<\/div><\/div><div id=\"newmessagelinks\"><a id=\"notificationyes\" href=\"http:\/\/campusvirtual.ull.es\/1314\/message\/index.php\">Ir a mensajes<\/a>&nbsp;&nbsp;&nbsp;<a id=\"notificationno\" href=\"\">Ignorar<\/a><\/div>", "http:\/\/campusvirtual.ull.es\/1314\/message\/index.php"); });
+M.yui.galleryversion="2010.04.08-12-35";Y.use("core_dock","moodle-block_navigation-navigation",function() {M.block_navigation.init_add_tree({"id":"5","instance":"5","candock":false});
+});
+M.yui.galleryversion="2010.04.08-12-35";Y.use("moodle-filter_glossary-autolinker",function() {M.filter_glossary.init_filter_autolinking({"courseid":0});
+});
+M.util.help_popups.setup(Y);
+M.yui.galleryversion="2010.04.08-12-35";Y.use("moodle-core-popuphelp",function() {M.core.init_popuphelp();
+});
+M.util.init_block_hider(Y, {"id":"inst18","title":"Perfil de usuario","preference":"block18hidden","tooltipVisible":"Ocultar bloque Perfil de usuario","tooltipHidden":"Mostrar bloque Perfil de usuario"});
+M.util.init_block_hider(Y, {"id":"inst7","title":"Mis archivos privados","preference":"block7hidden","tooltipVisible":"Ocultar bloque Mis archivos privados","tooltipHidden":"Mostrar bloque Mis archivos privados"});
+M.util.init_block_hider(Y, {"id":"inst15","title":"Mensajes","preference":"block15hidden","tooltipVisible":"Ocultar bloque Mensajes","tooltipHidden":"Mostrar bloque Mensajes"});
+M.util.init_block_hider(Y, {"id":"inst5","title":"Administraci\u00f3n","preference":"block5hidden","tooltipVisible":"Ocultar bloque Administraci\u00f3n","tooltipHidden":"Mostrar bloque Administraci\u00f3n"});
+M.util.init_block_hider(Y, {"id":"inst17","title":"Unidad para la Docencia Virtual","preference":"block17hidden","tooltipVisible":"Ocultar bloque Unidad para la Docencia Virtual","tooltipHidden":"Mostrar bloque Unidad para la Docencia Virtual"});
+M.util.init_block_hider(Y, {"id":"inst16","title":"Entornos virtuales","preference":"block16hidden","tooltipVisible":"Ocultar bloque Entornos virtuales","tooltipHidden":"Mostrar bloque Entornos virtuales"});
+M.util.init_block_hider(Y, {"id":"inst19","title":"Aulas matriculadas en este entorno virtual","preference":"block19hidden","tooltipVisible":"Ocultar bloque Aulas matriculadas en este entorno virtual","tooltipHidden":"Mostrar bloque Aulas matriculadas en este entorno virtual"});
+
+});
+//]]>
+</script>
+</body>
+</html>
